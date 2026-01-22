@@ -1,5 +1,5 @@
 ### Olá sou Jose Osmar  🚀
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gomes1987&show_icons=true&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=osmardev87&show_icons=true&theme=dracula)
 
 Estudante de <b>Análise e Desenvolvimento de Sistemas</b>
  
